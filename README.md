@@ -15,6 +15,7 @@ Make sure you have the following installed:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/) (if applicable)
+<<<<<<< HEAD
 - Any other dependencies...
 
 ## Installation
@@ -38,4 +39,5 @@ To run the project, use the following command:
 
 ```bash
 npm start
+=======
 
